@@ -1,8 +1,8 @@
-# Flickr Datasets
+## Flickr Datasets
 
 This repository contains Flickr image-to-text pair datasets (8k and 30k). Each image contains 5 captions.
 
-## Flick8k
+#### Flick8k
 To download flickr8k dataset, run following code,
 
 ```shell
@@ -14,7 +14,7 @@ rm flickr8k-dataset.zip
 echo "Downloaded Flickr8k dataset successfully."
 ```
 
-## Flickr30k
+#### Flickr30k
 To download flickr30k dataset run following code,
 
 ```shell
